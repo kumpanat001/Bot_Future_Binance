@@ -5,8 +5,3 @@
 {"passphrase": "admin1234", "cmd": "close_long", "amount":"0.1", "symbol": "{{ticker}}", "API_KEY":"###", "API_SECRET":"###" }
 
 {"passphrase": "admin1234", "cmd": "close_short", "amount":"0.1", "symbol": "{{ticker}}", "API_KEY":"###", "API_SECRET":"###" }
-
-
-WEBHOOK1 = http://45.77.44.148/webhook_1
-WEBHOOK2 = http://45.77.44.148/webhook_2
-WEBHOOK3 = http://45.77.44.148/webhook_3
